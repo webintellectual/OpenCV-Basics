@@ -1,0 +1,1 @@
+An image is nothing but a numpy array of pixel values. Each pixel has three values corresponding to 3 channnels in a BGR image.
